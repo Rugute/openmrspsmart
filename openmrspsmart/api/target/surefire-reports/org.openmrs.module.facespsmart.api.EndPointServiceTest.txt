@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.openmrs.module.facespsmart.api.EndPointServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.251 sec - in org.openmrs.module.facespsmart.api.EndPointServiceTest
